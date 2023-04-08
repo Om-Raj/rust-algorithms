@@ -3,7 +3,8 @@
 *
 * Author: Om-Raj
 * Date: 7 April, 2023
-*
+* Algorithm: Stein's algorithm / Binary Euclidean algorithm 
+* 
 * @param a: u64 - a positive integer
 * @param b: u64 - a positive integer
 *
